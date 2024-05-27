@@ -1,1 +1,2 @@
 # CS3035-Directions-Script
+<p>This is a script made with Python to gain to create a file for each <a href="https://github.com/AllenTamrazian/CS-3035">CS3035 assignment repository</a>. It uses pyautogui to press hotkeys, pyperclip to get the user's clipboard, and Python's included methods open and write to create files with the text from pyperclip. This is was made to see the capabilities of Python in automating tasks.</p>
